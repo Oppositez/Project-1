@@ -58,7 +58,7 @@ p{
     color: white;
     border: 10px dashed white;
     position: absolute;
-    top: 300px;
+    top: 280px;
     font-size: 200%;
     display: inline-block;
     margin-left: 680px;
@@ -84,7 +84,11 @@ audio{
 .quote{
     position: absolute;
     left: 900px;
-    top: 700px;
+    top: 870px;
     border: 6px double white;
     background-color: black;
+}
+body{
+    
+    background-attachment: fixed;
 }

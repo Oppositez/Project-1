@@ -33,3 +33,7 @@
     
     text-align: center;
 }
+iframe{
+    display: inline-block;
+    width: 50%;
+}

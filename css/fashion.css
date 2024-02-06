@@ -33,3 +33,129 @@
     
     text-align: center;
 }
+.hair{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    border: 8px dashed #FF0087;
+    font-size: 30px;
+    position: absolute;
+    right: 450px;
+    left: 450px;
+    top: 400px;
+    padding: 10px;
+}
+.one{
+    width: 350px;
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    border: 8px double white;
+}
+.two{
+    height: 400px;
+    width: 350px;
+    position: absolute;
+    right: 50px;
+    top: 300px;
+    border: 8px double white;
+}
+h1{
+    color: white;
+    background-color: #FF0087;
+    border: 8px solid black;
+    text-align: center;
+    padding: 15px;
+    font-size: 500%;
+    margin-left: 500px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.three{
+    width: 350px;
+    position: absolute;
+    left: 500px;
+    top: 800px;
+    border: 8px double #FF0087;
+}
+.four{
+    width: 350px;
+    position: absolute;
+    top: 800px;
+    left: 50px;
+    border: 8px double #FF0087;
+}
+.line1{
+    display: block;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 750px;
+    color: white;
+}
+.kandi{
+    display: inline-block;
+    color: #FF0087;
+    background-color: white;
+    border: 8px dashed black;
+    font-size: 30px;
+    position: absolute;
+    right: 100px;
+    left: 950px;
+    top: 875px;
+    padding: 10px;
+}
+.line2{
+    display: block;
+    background-color: black;
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 1375px;
+    color: white;
+}
+.five{
+    position: absolute;
+    border: 8px double black;
+    width: 300px;
+    top: 1900px;
+    right: 400px;
+}
+.six{
+    position: absolute;
+    border: 8px double black;
+    width: 300px;
+    top: 2000px;
+    right: 50px;
+}
+.seven{
+    position: absolute;
+    border: 8px double black;
+    width: 300px;
+    top: 1450px;
+    right: 400px;
+}
+.eight{
+    position: absolute;
+    border: 8px double black;
+    width: 300px;
+    top: 1450px;
+    right: 50px;
+}
+.outfit{
+    display: inline-block;
+    color: #FF0087;
+    background-color: black;
+    border: 8px dashed white;
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
+    right:800px ;
+    top: 1650px;
+    padding: 10px;
+}
+body{
+    
+    background-attachment: fixed;
+}
