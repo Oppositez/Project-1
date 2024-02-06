@@ -48,6 +48,7 @@ h1{
     font-size: 500%;
     margin-left: 500px;
     margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .tm{
     display: inline-block;
@@ -180,4 +181,7 @@ h1{
     top: 1450px;
     right: 100px;
     border: 8px double #FF0087;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

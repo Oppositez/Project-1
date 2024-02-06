@@ -38,7 +38,7 @@
     color: white;
     background-color: black;
     border: 8px dashed #FF0087;
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     right: 450px;
     left: 450px;
@@ -70,6 +70,7 @@ h1{
     margin-left: 500px;
     margin-top: 30px;
     display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .three{
     width: 350px;
@@ -99,7 +100,7 @@ h1{
     color: #FF0087;
     background-color: white;
     border: 8px dashed black;
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     right: 100px;
     left: 950px;
@@ -148,7 +149,7 @@ h1{
     color: #FF0087;
     background-color: black;
     border: 8px dashed white;
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     left: 100px;
     right:800px ;
@@ -158,4 +159,9 @@ h1{
 body{
     
     background-attachment: fixed;
+}
+p{
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
